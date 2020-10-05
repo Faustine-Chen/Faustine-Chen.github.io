@@ -1,17 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Faustine-Chen/Faustine_Chen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 這個github記錄了我大學四年的學習經歷!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+依照時間先後排序(時間由現在->以前)
 ```markdown
-Syntax highlighted code block
+# 畢業專題研究
 
-# Header 1
 ## Header 2
 ### Header 3
 
